@@ -76,4 +76,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1258-article-views-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1258-article-views-i) |
 | [1259-article-views-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1259-article-views-ii) |
 | [1268-market-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/JaleelJenkins/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
