@@ -47,6 +47,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [0619-biggest-single-number](https://github.com/JaleelJenkins/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/JaleelJenkins/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/JaleelJenkins/LeetCode/tree/master/0626-exchange-seats) |
+| [0627-swap-salary](https://github.com/JaleelJenkins/LeetCode/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1181-game-play-analysis-iii) |
