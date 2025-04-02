@@ -111,4 +111,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1908-recyclable-and-low-fat-products](https://github.com/JaleelJenkins/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/JaleelJenkins/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/JaleelJenkins/LeetCode/tree/master/1948-rearrange-products-table) |
+| [2024-calculate-special-bonus](https://github.com/JaleelJenkins/LeetCode/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
