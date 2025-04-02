@@ -36,6 +36,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [0601-human-traffic-of-stadium](https://github.com/JaleelJenkins/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/JaleelJenkins/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0603-consecutive-available-seats](https://github.com/JaleelJenkins/LeetCode/tree/master/0603-consecutive-available-seats) |
+| [0607-sales-person](https://github.com/JaleelJenkins/LeetCode/tree/master/0607-sales-person) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1181-game-play-analysis-iii) |
