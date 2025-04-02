@@ -89,4 +89,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1390-average-selling-price](https://github.com/JaleelJenkins/LeetCode/tree/master/1390-average-selling-price) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/JaleelJenkins/LeetCode/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1415-students-and-examinations](https://github.com/JaleelJenkins/LeetCode/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/JaleelJenkins/LeetCode/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
