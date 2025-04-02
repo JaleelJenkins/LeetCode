@@ -109,4 +109,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/JaleelJenkins/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/JaleelJenkins/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/JaleelJenkins/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1942-primary-department-for-each-employee](https://github.com/JaleelJenkins/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
