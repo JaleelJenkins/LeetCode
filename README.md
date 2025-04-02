@@ -82,4 +82,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1301-reformat-department-table](https://github.com/JaleelJenkins/LeetCode/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/JaleelJenkins/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1328-monthly-transactions-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1328-monthly-transactions-ii) |
 <!---LeetCode Topics End-->
