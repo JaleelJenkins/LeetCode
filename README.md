@@ -84,4 +84,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1327-last-person-to-fit-in-the-bus](https://github.com/JaleelJenkins/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1328-monthly-transactions-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1328-monthly-transactions-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/JaleelJenkins/LeetCode/tree/master/1338-queries-quality-and-percentage) |
+| [1339-team-scores-in-football-tournament](https://github.com/JaleelJenkins/LeetCode/tree/master/1339-team-scores-in-football-tournament) |
 <!---LeetCode Topics End-->
