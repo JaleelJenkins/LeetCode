@@ -118,6 +118,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JaleelJenkins/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JaleelJenkins/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JaleelJenkins/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/JaleelJenkins/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
