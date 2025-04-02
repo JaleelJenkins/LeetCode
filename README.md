@@ -67,4 +67,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1198-unpopular-books](https://github.com/JaleelJenkins/LeetCode/tree/master/1198-unpopular-books) |
 | [1204-new-users-daily-count](https://github.com/JaleelJenkins/LeetCode/tree/master/1204-new-users-daily-count) |
 | [1214-highest-grade-for-each-student](https://github.com/JaleelJenkins/LeetCode/tree/master/1214-highest-grade-for-each-student) |
+| [1215-reported-posts](https://github.com/JaleelJenkins/LeetCode/tree/master/1215-reported-posts) |
 <!---LeetCode Topics End-->
