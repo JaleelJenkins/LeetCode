@@ -79,4 +79,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1278-product-price-at-a-given-date](https://github.com/JaleelJenkins/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1291-immediate-food-delivery-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1291-immediate-food-delivery-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
+| [1301-reformat-department-table](https://github.com/JaleelJenkins/LeetCode/tree/master/1301-reformat-department-table) |
 <!---LeetCode Topics End-->
