@@ -33,6 +33,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [0595-big-countries](https://github.com/JaleelJenkins/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/JaleelJenkins/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/JaleelJenkins/LeetCode/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
+| [0601-human-traffic-of-stadium](https://github.com/JaleelJenkins/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1181-game-play-analysis-iii) |
