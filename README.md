@@ -1,5 +1,5 @@
 # LeetCode
-A collection of solved LeetCode questions, done by me.
+A collection of solved LeetCode questions, pushed from my LeetCode account. 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
