@@ -80,4 +80,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1291-immediate-food-delivery-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1291-immediate-food-delivery-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/JaleelJenkins/LeetCode/tree/master/1301-reformat-department-table) |
+| [1317-monthly-transactions-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
