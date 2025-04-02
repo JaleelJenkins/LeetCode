@@ -69,4 +69,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1214-highest-grade-for-each-student](https://github.com/JaleelJenkins/LeetCode/tree/master/1214-highest-grade-for-each-student) |
 | [1215-reported-posts](https://github.com/JaleelJenkins/LeetCode/tree/master/1215-reported-posts) |
 | [1225-active-businesses](https://github.com/JaleelJenkins/LeetCode/tree/master/1225-active-businesses) |
+| [1226-user-purchase-platform](https://github.com/JaleelJenkins/LeetCode/tree/master/1226-user-purchase-platform) |
 <!---LeetCode Topics End-->
