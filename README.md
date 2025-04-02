@@ -54,6 +54,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1154-product-sales-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1154-product-sales-analysis-ii) |
 | [1155-product-sales-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1161-project-employees-i) |
+| [1162-project-employees-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1162-project-employees-ii) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1181-game-play-analysis-iii) |
