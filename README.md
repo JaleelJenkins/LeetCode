@@ -21,6 +21,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [0262-trips-and-users](https://github.com/JaleelJenkins/LeetCode/tree/master/0262-trips-and-users) |
 | [0569-median-employee-salary](https://github.com/JaleelJenkins/LeetCode/tree/master/0569-median-employee-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/JaleelJenkins/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0571-find-median-given-frequency-of-numbers](https://github.com/JaleelJenkins/LeetCode/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1181-game-play-analysis-iii) |
