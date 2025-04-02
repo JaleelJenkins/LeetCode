@@ -28,6 +28,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [0579-find-cumulative-salary-of-an-employee](https://github.com/JaleelJenkins/LeetCode/tree/master/0579-find-cumulative-salary-of-an-employee) |
 | [0580-count-student-number-in-departments](https://github.com/JaleelJenkins/LeetCode/tree/master/0580-count-student-number-in-departments) |
 | [0584-find-customer-referee](https://github.com/JaleelJenkins/LeetCode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/JaleelJenkins/LeetCode/tree/master/0585-investments-in-2016) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1181-game-play-analysis-iii) |
