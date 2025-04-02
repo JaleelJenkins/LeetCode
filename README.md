@@ -73,4 +73,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1237-reported-posts-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1237-reported-posts-ii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1246-user-activity-for-the-past-30-days-ii) |
+| [1258-article-views-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
