@@ -44,6 +44,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [0614-second-degree-follower](https://github.com/JaleelJenkins/LeetCode/tree/master/0614-second-degree-follower) |
 | [0615-average-salary-departments-vs-company](https://github.com/JaleelJenkins/LeetCode/tree/master/0615-average-salary-departments-vs-company) |
 | [0618-students-report-by-geography](https://github.com/JaleelJenkins/LeetCode/tree/master/0618-students-report-by-geography) |
+| [0619-biggest-single-number](https://github.com/JaleelJenkins/LeetCode/tree/master/0619-biggest-single-number) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1181-game-play-analysis-iii) |
