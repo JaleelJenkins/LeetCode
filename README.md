@@ -131,6 +131,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JaleelJenkins/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/JaleelJenkins/LeetCode/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
