@@ -110,4 +110,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1892-find-total-time-spent-by-each-employee](https://github.com/JaleelJenkins/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/JaleelJenkins/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/JaleelJenkins/LeetCode/tree/master/1942-primary-department-for-each-employee) |
+| [1948-rearrange-products-table](https://github.com/JaleelJenkins/LeetCode/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
