@@ -65,4 +65,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1182-game-play-analysis-iv](https://github.com/JaleelJenkins/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1193-game-play-analysis-v](https://github.com/JaleelJenkins/LeetCode/tree/master/1193-game-play-analysis-v) |
 | [1198-unpopular-books](https://github.com/JaleelJenkins/LeetCode/tree/master/1198-unpopular-books) |
+| [1204-new-users-daily-count](https://github.com/JaleelJenkins/LeetCode/tree/master/1204-new-users-daily-count) |
 <!---LeetCode Topics End-->
