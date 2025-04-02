@@ -70,4 +70,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1215-reported-posts](https://github.com/JaleelJenkins/LeetCode/tree/master/1215-reported-posts) |
 | [1225-active-businesses](https://github.com/JaleelJenkins/LeetCode/tree/master/1225-active-businesses) |
 | [1226-user-purchase-platform](https://github.com/JaleelJenkins/LeetCode/tree/master/1226-user-purchase-platform) |
+| [1237-reported-posts-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1237-reported-posts-ii) |
 <!---LeetCode Topics End-->
