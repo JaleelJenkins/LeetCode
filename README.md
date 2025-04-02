@@ -114,4 +114,12 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [2024-calculate-special-bonus](https://github.com/JaleelJenkins/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/JaleelJenkins/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2252-the-airport-with-the-most-traffic](https://github.com/JaleelJenkins/LeetCode/tree/master/2252-the-airport-with-the-most-traffic) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/JaleelJenkins/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/JaleelJenkins/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
