@@ -77,4 +77,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1259-article-views-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1259-article-views-ii) |
 | [1268-market-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/JaleelJenkins/LeetCode/tree/master/1278-product-price-at-a-given-date) |
+| [1291-immediate-food-delivery-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1291-immediate-food-delivery-i) |
 <!---LeetCode Topics End-->
