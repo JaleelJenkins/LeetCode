@@ -95,4 +95,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/JaleelJenkins/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/JaleelJenkins/LeetCode/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/JaleelJenkins/LeetCode/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/JaleelJenkins/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
