@@ -39,6 +39,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [0607-sales-person](https://github.com/JaleelJenkins/LeetCode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/JaleelJenkins/LeetCode/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/JaleelJenkins/LeetCode/tree/master/0610-triangle-judgement) |
+| [0612-shortest-distance-in-a-plane](https://github.com/JaleelJenkins/LeetCode/tree/master/0612-shortest-distance-in-a-plane) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/JaleelJenkins/LeetCode/tree/master/1181-game-play-analysis-iii) |
