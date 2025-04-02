@@ -20,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/JaleelJenkins/LeetCode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/JaleelJenkins/LeetCode/tree/master/0262-trips-and-users) |
 | [1179-game-play-analysis-i](https://github.com/JaleelJenkins/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1180-game-play-analysis-ii](https://github.com/JaleelJenkins/LeetCode/tree/master/1180-game-play-analysis-ii) |
 <!---LeetCode Topics End-->
