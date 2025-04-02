@@ -112,4 +112,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1942-primary-department-for-each-employee](https://github.com/JaleelJenkins/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/JaleelJenkins/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/JaleelJenkins/LeetCode/tree/master/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/JaleelJenkins/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
