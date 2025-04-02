@@ -91,4 +91,5 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 | [1415-students-and-examinations](https://github.com/JaleelJenkins/LeetCode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/JaleelJenkins/LeetCode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/JaleelJenkins/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/JaleelJenkins/LeetCode/tree/master/1480-movie-rating) |
 <!---LeetCode Topics End-->
