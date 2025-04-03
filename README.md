@@ -118,6 +118,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JaleelJenkins/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/JaleelJenkins/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JaleelJenkins/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JaleelJenkins/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/JaleelJenkins/LeetCode/tree/master/0035-search-insert-position) |
@@ -182,5 +183,10 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JaleelJenkins/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/JaleelJenkins/LeetCode/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JaleelJenkins/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
