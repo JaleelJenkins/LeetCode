@@ -137,6 +137,7 @@ A collection of solved LeetCode questions, pushed from my LeetCode account.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JaleelJenkins/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/JaleelJenkins/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JaleelJenkins/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JaleelJenkins/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
